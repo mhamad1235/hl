@@ -1,0 +1,33 @@
+#title{
+  color: #fff;
+background-color: #ADD8E6
+
+}
+.container-fluid{
+
+padding:3% 15%;
+
+}
+h1{
+font-family: 'Pacifico', cursive;
+       font-size: 100px;
+
+      
+       line-height: 1.5rem;
+}
+h1:hover{
+  color: gold;
+}
+img{
+  transition: rotate(25deg);
+width: 200px;
+height: 200px;
+
+}
+.navbar-nav
+.nav-link{
+  font-family: monospace;
+  font-size: 1.5rem;
+  padding: 0 18px 0;
+  ;
+}
